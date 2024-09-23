@@ -1,0 +1,33 @@
+
+body {
+    background-color: lightblue;
+  }
+h1{
+    color: darkmagenta;
+}
+li{
+    font-size: x-large;
+    font-style: inherit;
+    font-weight: bold;
+    color:darkblue
+}
+
+p{
+    color: rgb(18, 3, 37);
+    font-style:normal; 
+    font-size:larger;
+    font-weight: bolder;
+}
+
+.container1{
+    background-color: aquamarine;
+}
+.container2{
+    background-color:chocolate;
+}
+.container3{
+    background-color: rgb(255, 255, 255);
+}
+.container4{
+    background-color: darkorange;
+}
